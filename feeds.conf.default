@@ -3,6 +3,3 @@ src-git luci https://git.openwrt.org/project/luci.git;openwrt-21.02
 src-git routing https://git.openwrt.org/feed/routing.git;openwrt-21.02
 src-git telephony https://git.openwrt.org/feed/telephony.git;openwrt-21.02
 #src-link custom /usr/src/openwrt/custom-feed
-src-git lienol-packages https://github.com/Lienol/openwrt-packages.git;main
-src-git kenzo https://github.com/kenzok8/openwrt-packages.git;master 
-src-git lienol-luci https://github.com/Lienol/luci.git;21.02
